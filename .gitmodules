@@ -1,0 +1,4 @@
+[submodule "CAPW-Servicios-Tecnicos/external-service-addons"]
+	path = CAPW-Servicios-Tecnicos/external-service-addons
+	url = git@github.com:CAPW-Servicios-Tecnicos/external-service-addons.git
+	branch = 15.0
